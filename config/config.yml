@@ -1,0 +1,11 @@
+stock_API_baseUrl: https://www.alphavantage.co/query?
+stock_API_function: TIME_SERIES_DAILY
+stock_API_function_name: Time Series (Daily)
+stock_symbol: IBM
+threshold: 5%
+
+email_from: <changeit>
+email_to: <changeit>
+sendgrid_API_key: <changeit>
+alpha_vantage_API_key: <changeit>
+news_api: <changeit>
